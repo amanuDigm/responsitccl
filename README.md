@@ -2,19 +2,19 @@ Responsi TCCL
 ===
 
 ## Membuat image
-bash```
+```bash
 docker build -t responsi .
 ```
 ![alt tag](https://raw.githubusercontent.com/amanuDigm/responsitccl/master/screen/1.png)
 
 ### menjalankan compose
-bash```
+```bash
 docker-compose up -d
 ```
 ![alt tag](https://raw.githubusercontent.com/amanuDigm/responsitccl/master/screen/2.png)
 
 ### Melihat Proses
-bash```
+```bash
 docker ps
 ```
 ![alt tag](https://raw.githubusercontent.com/amanuDigm/responsitccl/master/screen/3.png)
