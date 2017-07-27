@@ -1,8 +1,7 @@
 Responsi TCCL
 ===
 
-### Membuat image
-- membuat image
+## Membuat image
 bash```
 docker build -t responsi .
 ```
